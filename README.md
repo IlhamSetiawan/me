@@ -58,11 +58,6 @@ A fresh Information Systems graduate with a strong interest in Cloud Computing a
 - **AWS re/Start Participant**
 
 
-
-## Interests
-- **MLOps:** Application in geospatial data for urban planning and traffic safety.
-- **Network Security:** Focus on cache contamination prevention, DDoS detection, and cross-chain communication using blockchain.
-
 ## Contact Information
 - **Email:** [ilhamsetiawan2000@gmail.com]
 - **Phone:** [085155438648]
